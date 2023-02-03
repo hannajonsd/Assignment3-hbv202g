@@ -1,1 +1,1 @@
-java Main.java
+java -cp bin is.hi.voa6.hbv202g.ass3.frontend.Main
